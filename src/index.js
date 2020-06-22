@@ -14,3 +14,4 @@ class Person {
 }
 
 console.log(Person.info)
+console.log(123)
